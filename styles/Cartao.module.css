@@ -1,0 +1,34 @@
+.card{
+  padding:20px;
+  background-color:#ff0000;
+  border: 3px solid white;
+  border-radius: 10px;
+  font-size: 14px;
+  display:flex;
+  
+}
+.bdeletar{
+  font-size: 16px;
+  border: 1px solid white;
+  padding:7px;
+  background-color: red;
+}
+.balterar{
+  font-size: 16px;
+  margin:10px;
+  border: 1px solid white;
+  padding:7px;
+  background-color: blue;
+}
+.botoes{
+  margin-left: 60px;
+  
+}
+
+.texto{
+  flex:1;
+  color: white ;
+}
+
+
+

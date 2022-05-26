@@ -12,7 +12,7 @@ export default function Home() {
           <Link href="/">
             <a>
               <h1 className={styles.titulo}>
-                LIVRARIA DO RAFAEL</h1></a></Link>
+                BIBLIOTECA DO RAFAEL</h1></a></Link>
 
           <ul>
 

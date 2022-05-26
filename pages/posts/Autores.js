@@ -61,7 +61,7 @@ export default function Autores() {
     
       </main>
             <footer className={styles.footer}>
-    <h1>www.livrariadorafael.com</h1>
+    <h1>www.bibliotecadorafael.com</h1>
       </footer>
     </div>
   )

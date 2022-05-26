@@ -28,9 +28,7 @@ const response = await axios.delete("https://skeleton-nodejs.guilhermetombin.rep
           <button className={styles.bdeletar} onClick={deletarcard}>
             Deletar
       </button>
-          <button className={styles.balterar} href="#">
-            Alterar
-      </button>
+         
             
         </div>
       </div>

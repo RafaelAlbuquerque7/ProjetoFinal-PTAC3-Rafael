@@ -27,7 +27,7 @@ export default function CadastrarL() {
     
       </main>
             <footer className={styles.footer}>
-    <h1>www.livrariadorafael.com</h1>
+    <h1>www.bibliotecadorafael.com</h1>
       </footer>
     </div>
       </>

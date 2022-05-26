@@ -23,9 +23,9 @@ export default function Home() {
   />
 
       
-}>
+
      <h1 className={styles.title}>
-    <p> Bem vindo ao site de</p> lIVROS DO RAFAEL
+    <p> Bem vindo a</p> <p>BIBLIOTECA DO RAFAEL</p>
     </h1>
         
 
@@ -35,7 +35,7 @@ export default function Home() {
       </main>
     
       <footer className={styles.footer}>
-    <h1>www.livrariadorafael.com</h1>
+    <h1>www.bibliotecadorafael.com</h1>
       </footer>
     </div>
   )

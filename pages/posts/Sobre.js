@@ -21,18 +21,21 @@ export default function Sobre() {
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
-
+<center>
      <div className={styles.textoesq}>
     <h1 class="animate__animated animate__backInLeft">
-    <p> Somos o maior site de livros da america latina, para os amantes dos livros, a LIVRARIA DO RAFAEL impressiona todos os visitantes do website tanto por sua beleza estrutural e estonteante quanto pela sua variedade de livros registrados, tudo isso gerenciado pelo dono Rafael Albuquerque.</p>
+    <p> Somos o maior site de livros da america latina, para os amantes dos livros, a BIBLIOTECA DO RAFAEL impressiona todos os visitantes do website tanto por sua beleza estrutural e estonteante quanto pela sua variedade de livros registrados, tudo isso gerenciado pelo dono Rafael Albuquerque.</p>
     </h1>
     </div>
+  </center>
     <p></p>
+        <center>
 <div className={styles.textoesq}>
   <h1 class="animate__animated animate__backInLeft">
         <p>Nos siga no Instagram</p>
   </h1>
   </div>
+        
           <p></p>
 <div className={styles.textoesq}>
   <h1 class="animate__animated animate__backInLeft">
@@ -46,22 +49,15 @@ export default function Sobre() {
 
 
     
-    <a href ="https://www.instagram.com/albuquerque.rafael7/" target="_blank">@albuquerque.rafael7</a>
+    <a  href ="https://www.instagram.com/albuquerque.rafael7/" target="_blank">@albuquerque.rafael7</a>
   </h1>
   </div>
-<div className={styles.imglogo}>
-<Image 
-      src="/561ef54e49ed9f529f00f39cd0d25461-papel-timbrado-neon-vermelho-letra-r.png"
-      alt="logo"
-      width={100}
-      height={100}
-      /> 
-     </div>   
+</center>
 
     
       </main>
             <footer className={styles.footer}>
-    <h1>www.livrariadorafael.com</h1>
+    <h1>www.bibliotecadorafael.com</h1>
       </footer>
     </div>
   )
